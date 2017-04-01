@@ -1,9 +1,9 @@
 ---
-title: zhongwenceshi
+title: zai'lai再来ce'shi
 author: yuanbo
 date: '2017-04-02'
 slug: zhongwenceshi
-categories: []
+categories: [test]
 tags: []
 ---
 
