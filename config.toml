@@ -1,4 +1,7 @@
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 publishDir = "docs"
 baseurl = "/"
 relativeurls = true
