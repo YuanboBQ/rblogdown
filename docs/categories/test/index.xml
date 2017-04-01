@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on A Hugo website</title>
+    <link>/categories/test/index.xml</link>
+    <description>Recent content in Test on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>zai&#39;lai再来ce&#39;shi</title>
+      <link>/2017/04/02/zhongwenceshi/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/04/02/zhongwenceshi/</guid>
+      <description>&lt;p&gt;Making a Website Using Blogdown, Hugo, and GitHub pages.
+&lt;a href=&#34;https://proquestionasker.github.io/blog/Making_Site/&#34;&gt;https://proquestionasker.github.io/blog/Making_Site/&lt;/a&gt;
+Dec 19, 2016 - Setting Up GitHub; RStudio and Blogdown. Initializing GitHub pages to work with Hugo and Blogdown. Adding Content. Site Configuration &amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
